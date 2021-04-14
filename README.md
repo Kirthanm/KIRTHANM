@@ -1,4 +1,4 @@
-![download](https://user-images.githubusercontent.com/76951087/114719562-d87fcd00-9d54-11eb-94bf-d377ba491efe.jpg)
+                             ![download](https://user-images.githubusercontent.com/76951087/114719562-d87fcd00-9d54-11eb-94bf-d377ba491efe.jpg)
 
 
 <h1 align="center">Hi 👋, I'm KIRTHAN M</h1>
