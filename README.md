@@ -1,4 +1,5 @@
-                             ![download](https://user-images.githubusercontent.com/76951087/114719562-d87fcd00-9d54-11eb-94bf-d377ba491efe.jpg)
+![image3](https://user-images.githubusercontent.com/76951087/114719895-25fc3a00-9d55-11eb-82cd-a02731b3ab1d.png)
+![download](https://user-images.githubusercontent.com/76951087/114719562-d87fcd00-9d54-11eb-94bf-d377ba491efe.jpg)
 
 
 <h1 align="center">Hi 👋, I'm KIRTHAN M</h1>
