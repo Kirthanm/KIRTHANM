@@ -1,3 +1,6 @@
+![1398313](https://user-images.githubusercontent.com/76951087/114719423-b0906980-9d54-11eb-81e7-2e6c5adab3d8.jpg)
+
+
 <h1 align="center">Hi 👋, I'm KIRTHAN M</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
