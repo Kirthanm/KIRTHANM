@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://inblog.in](https://inblog.in)
 
-- 💬 Ask me about **Who am I ??**
+- 💬 Ask me about **Lets have a discuss**
 
 - 📫 How to reach me **kirthan3@gmail.com**
 
