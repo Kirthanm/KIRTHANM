@@ -1,8 +1,10 @@
-
-   ![download](https://user-images.githubusercontent.com/76951087/114719562-d87fcd00-9d54-11eb-94bf-d377ba491efe.jpg)   
+ 
 
 <h1 align="center">Hi 👋, I'm KIRTHAN M</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
+
+
+   ![download](https://user-images.githubusercontent.com/76951087/114719562-d87fcd00-9d54-11eb-94bf-d377ba491efe.jpg)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirthanm&label=Profile%20views&color=0e75b6&style=flat" alt="kirthanm" /> </p>
 
